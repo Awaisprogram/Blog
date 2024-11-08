@@ -14,7 +14,7 @@ const Bottom = () => {
                   That dominion stars lights dominion divide years for fourth have don not stars is that he earth it first without heaven...
                 </p>
                 <div className="text-gray-500 text-sm flex items-center gap-2 mb-4">
-            <i className="fas fa-user"></i> Travel, Lifestyle, Features |
+            <i className="fas fa-user"></i>Features |
             <i className="fas fa-comment"></i> 03 Comments
           </div>
               </div>
