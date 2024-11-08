@@ -13,7 +13,7 @@ function About() {
       </div>
       <div className="px-12 lg:px-24 ">
         <div className="rounded ">
-          <Image src={about} alt='' className='rounded-xl lg:h-96 object-fit hover:opacity-90 transition ease-in slide-right'></Image>
+          <Image src={about} alt='' className='rounded-xl lg:h-96 object-fit hover:opacity-90 transition ease-in'></Image>
         </div>
           <div className="py-8 text-xl text-gray-600 font-light  lg:px-36 ">
          <p className='border-b-2 pb-2 fade-in '>
