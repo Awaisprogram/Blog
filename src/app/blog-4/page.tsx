@@ -38,7 +38,7 @@ const Blog = () => {
                 <p className="text-gray-600 mb-4">
                   Spending time in nature is more than just a getaway; it&apos;s a chance to connect deeply with the world around you. Whether it&apos;s a walk in the park or a hike in the mountains, nature has the power to ground us and bring clarity to our minds.
                 </p>
-                <blockquote className="bg-gray-100 p-4 italic border-l-4 border-green-500 text-gray-600 mb-4">
+                <blockquote className="bg-gray-100 p-4 italic border-l-4 border-color text-gray-600 mb-4">
                   Try practicing &quot;forest bathing&quot; or Shinrin-yoku—a Japanese practice that involves immersing yourself in nature with all of your senses. Take slow, deliberate steps, breathe deeply, and let the sounds, smells, and sights of nature fill your awareness. This method can help reduce stress and improve mental clarity.
                 </blockquote>
                 <p className="text-gray-600 mb-4">
