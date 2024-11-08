@@ -5,7 +5,7 @@ import { WiDirectionRight, WiDirectionLeft } from "react-icons/wi";
 function Pre() {
   return (
     <div>
-      <div className="mt-8 flex justify-center">
+      <div className="mt-8 py-10 flex justify-center">
         <nav aria-label="Page navigation">
           <ul className="inline-flex items-center space-x-2">
             <li>
