@@ -38,7 +38,7 @@ const Blog = () => {
                 <p className="text-gray-600 mb-4">
                 Creating a spa day at home is a wonderful way to relax and rejuvenate. Begin by setting a calming atmosphere: dim the lights, use candles with soothing scents, and play soft music. You can then enjoy a warm bath or shower, using Epsom salts or essential oils to relieve any tension in your body. Follow this with a gentle face mask to refresh your skin and a simple manicure or pedicure for added relaxation.
                 </p>
-                <blockquote className="bg-gray-100 p-4 italic border-l-4 border-green-500 text-gray-600 mb-4">
+                <blockquote className="bg-gray-100 p-4 italic border-l-4 border-color text-gray-600 mb-4">
                 Add a touch of mindfulness during your spa time. Try closing your eyes, focusing on your breath, and practicing deep breathing or light meditation. This mental pause enhances the physical relaxation, turning your home spa experience into a holistic retreat.
                 </blockquote>
                 <p className="text-gray-600 mb-4">
