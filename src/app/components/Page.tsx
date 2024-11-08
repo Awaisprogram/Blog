@@ -35,10 +35,11 @@ function Page() {
           {posts.map((post, index) => (
             <Cards key={index} post={post} />
           ))}
+          <div>
           <Link href='./blogs'>  
           <Button text='See more'/>
           </Link>
-         
+         </div>
         </div>
       </>
     )
