@@ -40,7 +40,7 @@ const Blog = () => {
 
 
                 </p>
-                <blockquote className="bg-gray-100 p-4 italic border-l-4 border-green-500 text-gray-600 mb-4">
+                <blockquote className="bg-gray-100 p-4 italic border-l-4 border-color text-gray-600 mb-4">
                 Try practicing &quot;mindful walking,&quot; where you focus on your breathing, the movement of your body, and the surroundings with each step. This not only reduces stress but can also enhance your walking performance by aligning your mental state with your physical activity.
                 </blockquote>
                 <p className="text-gray-600 mb-4">By incorporating these lesser-known strategies into your routine, you&apos;ll experience improved posture, endurance, and overall enjoyment in your walking journey. Whether you&apos;re  looking to walk more efficiently, longer, or with less strain, these techniques can help elevate your walking experience.</p>
