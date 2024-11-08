@@ -17,7 +17,7 @@ function Main() {
           <input type="text" placeholder='Enter you email' className='border rounded-l-full lg:px-16 px-3 py-3 outline-none'/>
           <button className='bg-color my-10  lg:px-4 px-2 py-3 text-white font-bold rounded-r-full hover:bg-hover transition transiton-300 ease-in'>Subscribe</button>
         </div>
-        <div className="max-w-1/3 slide-right">
+        <div className="max-w-1/3 ">
          <Image src={main} alt=''></Image>
         </div>
       </div>
