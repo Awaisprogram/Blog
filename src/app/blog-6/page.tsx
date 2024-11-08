@@ -38,7 +38,7 @@ const Blog = () => {
                 <p className="text-gray-600 mb-4">
                 There is something magical about watching the sun dip below the horizon, painting the sky with vibrant hues of orange and pink. Its a moment of peace and reflection, often leaving you feeling rejuvenated and connected with nature.
                 </p>
-                <blockquote className="bg-gray-100 p-4 italic border-l-4 border-green-500 text-gray-600 mb-4">
+                <blockquote className="bg-gray-100 p-4 italic border-l-4 border-color text-gray-600 mb-4">
                 Before heading home, take a few minutes to sit in stillness and absorb the colors around you. Let the beauty of the sunset calm your mind and inspire a sense of gratitude. This short pause can elevate your mood and create a sense of fulfillment, making the journey home feel even more peaceful.
                 </blockquote>
                 <p className="text-gray-600 mb-4">As you leave the sunset behind, carry the tranquility with you. A few moments of mindful appreciation can make all the difference in how you transition into your evening.</p>
