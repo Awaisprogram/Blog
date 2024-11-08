@@ -45,7 +45,7 @@ const Blog = () => {
                   old furniture, or even crafting personalized wall art to
                   showcase your style.
                 </p>
-                <blockquote className="bg-gray-100 p-4 italic border-l-4 border-green-500 text-gray-600 mb-4">
+                <blockquote className="bg-gray-100 p-4 italic border-l-4 border-color text-gray-600 mb-4">
                   Try repurposing unused household items for new purposes. For
                   example, turn an old wooden ladder into a stylish bookshelf or
                   use mason jars as planters. Not only will this reduce waste,
