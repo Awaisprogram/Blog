@@ -15,7 +15,7 @@ function Main() {
           
           <p className='text-light text-xl font-medium text-lg mt-5'>Stay ahead with the latest in web development trends, coding tips, project showcases, and more!</p>
           <input type="text" placeholder='Enter you email' className='border rounded-l-full lg:px-16 px-3 py-3 outline-none'/>
-          <button className='bg-color my-10  lg:px-4 px-2 py-3 text-white font-bold rounded-r-full sm:hidden lg:block hover:bg-hover transition transiton-300 ease-in'>Subscribe</button>
+          <button className='bg-color my-10  lg:px-4 px-2 py-3 text-white font-bold rounded-r-full  hover:bg-hover transition transiton-300 ease-in'>Subscribe</button>
         </div>
         <div className="max-w-1/3 ">
          <Image src={main} alt=''></Image>
