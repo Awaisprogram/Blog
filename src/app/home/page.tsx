@@ -5,7 +5,7 @@ function Main() {
   return (
     <>
       <div className="py-40 px-10 flex  justify-center gap-10 items-center lg:flex-row flex-col bg-background ">
-        <div className="mt-10 lg:w-8/12 slide-left"> 
+        <div className="mt-10 lg:w-8/12 w-full slide-left"> 
           <h1 className='text-xl font-semibold mb-2 text-gray-600'>
           Welcome to our  <span className='text-color'>Blog</span>
           </h1>
